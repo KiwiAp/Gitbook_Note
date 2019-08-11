@@ -1,10 +1,10 @@
-# 样式清单
+# Markdown入门笔记
 
 ## 参考资料
 
-* [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)
+[ 官方cheat-sheet](https://www.markdownguide.org/cheat-sheet/)
 
-hello
+pdf精美版cheat-sheet：
 
 {% file src="../.gitbook/assets/markdown-cheatsheet-online.pdf" caption="Markdown CheatSheet" %}
 
@@ -34,14 +34,14 @@ hello
     </tr>
     <tr>
       <td style="text-align:left">&#x52A0;&#x7C97;</td>
-      <td style="text-align:left"><code>**blod**</code>
+      <td style="text-align:left"><code>**blod** or __blod__</code>
       </td>
       <td style="text-align:left">ctrl+b</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">&#x659C;&#x4F53;</td>
-      <td style="text-align:left"><code>*italicized*</code>
+      <td style="text-align:left"><code>*italicized* or _italicized_</code>
       </td>
       <td style="text-align:left">ctrl+i</td>
       <td style="text-align:left"></td>
@@ -159,16 +159,5 @@ hello
       <td style="text-align:left">null</td>
       <td style="text-align:left"></td>
     </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
   </tbody>
 </table>
-
-
-
-
-

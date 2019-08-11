@@ -8,5 +8,5 @@
 
 ## Markdown
 
-* [样式清单](markdown/yang-shi-qing-dan.md)
+* [Markdown入门笔记](markdown/yang-shi-qing-dan.md)
 

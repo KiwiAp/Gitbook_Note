@@ -10,3 +10,7 @@
 
 * [Markdown入门笔记](markdown/yang-shi-qing-dan.md)
 
+## Vim
+
+* [Vim入门学习笔记](vim/vim-ru-men-xue-xi-bi-ji.md)
+

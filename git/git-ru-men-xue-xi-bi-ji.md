@@ -16,8 +16,6 @@
 
 【cheat sheet】[https://gitee.com/liaoxuefeng/learn-java/raw/master/teach/git-cheatsheet.pdf](https://gitee.com/liaoxuefeng/learn-java/raw/master/teach/git-cheatsheet.pdf) 
 
-【cheat sheet 02】[https://www.cnblogs.com/franzz/p/9864188.html](https://www.cnblogs.com/franzz/p/9864188.html) 
-
 【git community book 中文版】[http://gitbook.liuhui998.com/index.html](http://gitbook.liuhui998.com/index.html) 
 
 【互联网组织的未来：剖析GitHub员工的任性之源[https://www.runoob.com/w3cnote/internet-organization-github.html](https://www.runoob.com/w3cnote/internet-organization-github.html)
